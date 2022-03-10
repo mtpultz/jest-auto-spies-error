@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "bonninator": "apps/bonninator",
+    "bonninator-e2e": "apps/bonninator-e2e"
+  }
 }
